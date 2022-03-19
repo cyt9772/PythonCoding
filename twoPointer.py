@@ -1,3 +1,4 @@
+
 n=int(input()) # 데이터 개수
 m=int(input()) # 부분합
 data=[1,2,3,2,5]
